@@ -1,0 +1,125 @@
+--------Code With Harry 100 Video Title From Here: --------
+
+ 
+          
+
+01. - Introduction to Programming and Python
+02. - Amazing Python Programs
+03. - Modules and Pip
+04. - Our First Python program
+05. - Comments, Escape Sequences and Print Statement 
+
+06. - Variables and Data Types
+07. - Exercise_1: Calculator Using Python
+08. - Exercise_1: Calculator Using Python Solution
+09. - Typecasting in Python
+10. - Taking User Input in Python
+
+11. - Strings in Python
+12. - Strings Slicing and Operations on Strings in Python 
+13. - String Method in Python
+14. - If Else Conditional Statements in Python
+15. - Exercise_2: Good Morning Sir
+
+16. - Match Case Statements inPython
+17. - For Loop in Python
+18. - While Loop in Python
+19. - Break and Continue in Python
+20. - Function in Python
+
+21. - Function Arguments in Python
+22. - Introduction to Lists in Python
+23. - List Methods in Python
+24. - Tuples in Python
+25. - Operations on Tuples in Python
+
+26. - Exercise_2: Good Morning Sir Solution
+27. - Exercise_3: Kaun Banega Crorepati(KBC)
+28. - F-Strings in Python
+29. - Docstrings in Python
+30. - Recursion in Python
+
+31. - Sets in Python
+32. - Sets Methods in Python
+33. - Dictionaries in Python
+34. - Dictionary Methods in Python
+35. - For Loop With Else in Python
+
+36. - Exception Handling in Python
+37. - Finally Keyword in Python
+38. - Raising Costom Errors in Python
+39. - Exercise_3: Kaun Banega Crorepati(KBC) Solution
+40. - Exercise_4: Secret Code Language
+
+41. - Short Hand If-Else Statements
+42. - Enumerate Function inPython
+43. - Virtual Environment in Python
+44. - How Import Works in Python
+45. - if __name__=="__main__" in Python
+
+46. - Os Module in Python
+47. - Exercise_4: Secret Code Language Solution
+48. - Local VS Global Variables in Python
+49. - Files io in Python
+50. - Read(), Readlines() and Other Methods 
+
+51. - Seek(), Tell() and Other Function in Python
+52. - Lambda Function in Python
+53. - Map, Filter and Reduce in Python
+54. - 'is' VS '==' in Python
+55. - Exercise_5: Snack-Water-Gun 
+
+56. - Introduction to OOPS in Python
+57. - Classes and Objects in Python
+58. - Constructors in Python
+59. - Decorators in Python
+60. - Getter and Setter in Python
+
+61. - Inheritance in Python
+62. - Access Modifiers in Python
+63. - Exercise_5: Snack-Water-Gun Solution
+64. - Exercise_6: Library Management System in Python
+65. - Static Methods in Python
+
+66. - Instance Variables VS Class Variables in Python
+67. - Exercise_6: Library Management System in Python Solution
+68. - Exercise_7: Clear The Clutter
+69. - Class Methods in Python
+70. - Class Methods as Alternative Constructors in Python
+
+71. - dir, __dict__ and help Method in Python
+72. - Super Keyword in Python
+73. - Magic/Dunder Method in Python
+74. - Method Overriding in Python
+75. - Exercise_7: Clear The Clutter Solution
+
+76. - Exercise_8: Merge The PDF 
+77. - Operator Overloading in Python
+78. - Single Inheritance in Python
+79. - Multiple Inheritance in Python
+80. - Multi-level Inheritance in Python
+
+81. - Hybrid and Hierarchical Inheritance in Python
+82. - Exercise_8: Merge The PDF Solution
+83. - Exercise_9: Shoutouts to Everyone
+84. - Time Module in Python
+85. - Creating Command Line Utility in Python
+
+86. - Walrus Operator in Python
+87. - Shutil Module in Python
+88. - Exercise_9: Shoutouts to Everyone Solution
+89. - Requests Modules in Python
+90. - Exercise_10: News App in Python
+
+91. - Generators in Python
+92. - Function Caching in Python
+93. - Exercise_10: News App Solution
+94. - Exercise_10: Drink Water Reminder in Python
+95. - Regular Expression in Python
+
+96. - Async IO in Python
+97. - Multithreading in Python
+98. - Multiprocessing in Python
+99. - Exercise_10: Drink Water Reminder Solution
+100. - Conclusion and Where To Go From Here 
+
