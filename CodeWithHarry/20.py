@@ -22,4 +22,4 @@ isGrater(a, b)
 x = 10
 y = 12
 calculateGmean(x,y)
-isGrater(a, b)
+isGrater(x, y)
